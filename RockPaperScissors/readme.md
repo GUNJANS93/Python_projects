@@ -1,5 +1,5 @@
 A fantastic Visual project creating a Rock, Paper, Scissors game in Python.
-Key Components
+## Key Components
 * Random Module: Python’s random module is used to generate the computer’s choice.
 * Tkinter Library: Use of Tkinter to create a graphical version of the game
 *   Input Handling: Ensure the user’s input is valid and handle any invalid inputs gracefully.
