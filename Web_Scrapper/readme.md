@@ -1,3 +1,17 @@
-* Scraped data from multiple websites using Python library BeautifulSoup, Requests, and Lxml
-* Used test website "https://webscraper.io/test-sites" and successfully tested on Google.com.
-* The project helped me develop my data wrangling and programming skills and gained valuable experience in gathering and manipulating data.
+Objective: Extract e-commerce product data for trend analysis.
+Tech Stack: Python (BeautifulSoup, Requests)
+Skills: Web Scraping, Data Extraction, Automation
+
+✅ Key Features:
+
+    Scraped 1,000+ product listings from e-commerce sites
+
+    Automated data pipeline for daily data collection
+
+    Supported price trend analysis
+
+📊 Results:
+
+    Contributed to API performance optimization
+
+    Enabled dynamic pricing strategies
